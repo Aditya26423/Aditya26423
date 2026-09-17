@@ -61,19 +61,7 @@
 
 <br>
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya26423/Aditya26423/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
-> Generates itself from real commit activity via the GitHub Action in
-> `.github/workflows/snake.yml` — it starts rendering after the first
-> workflow run on the `output` branch (see setup note at the bottom).
-
-<br>
-
----
 
 ### 🧩 LeetCode
 
